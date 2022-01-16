@@ -1,0 +1,21 @@
+"Sno", "States", "Capital", "Population"
+1, "Andhra Pradesh", "Visakhapatnam", 2000000
+2, "Arunachal Pradesh", "Itanagar", 80,000
+3, "Assam", "Dispur", 0
+4, "Bihar", "Patna", 200000
+5, "Chhattisgarh", "Raipur / Naya Raipur", 1200000
+6, "Goa", "Panaji", 100000
+7, "Gujarat", "Gandhinagar", 225000
+8, "Haryana", "Chandigarh", 1100000
+9, "Himachal Pradesh", "Shimla", 200000
+10, "Jharkhand", "Ranchi", 1400000
+11, "Karnataka", "Bengaluru", 10000000
+12, "Kerala", "Thiruvananthapuram", 900000
+13, "Madhya Pradesh", "Bhopal", 2000000
+14, "Maharashtra", "Mumbai", 14400000
+15, "Manipur", "Imphal", 300000
+16, "Meghalaya", "Shillong", 17000000
+17, "Mizoram", "Aizwal", 34000000
+18, "Nagaland", "Kohima", 14000000
+19, "Odisha", "Bhubaneswar", 1000000
+20, "Punjab", "Chandigarh", 1100000
